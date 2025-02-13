@@ -20,7 +20,7 @@ This repository provides:
 ### Installation
 Download the repo manually (as a .zip file) or clone it using Git.
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/ChuanhuiLiu/CDVI
 ```
 ### Prerequisites 
 The following module is required on your machine:

@@ -1,0 +1,7 @@
+name: cvae_env
+channels:
+  - conda-forge
+dependencies:
+  - python==3.9.19
+  - pip:
+    -r requirements.txt

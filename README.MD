@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 See `Demo.ipynb` for a quick start. 
 
-Our implementation is highly integrated with [Auton-Survival](https://github.com/autonlab/auton-survival) package. f you are not familiar with this package, please refer to the examples [here](https://nbviewer.org/github/autonlab/auton-survival/tree/master/examples/). We have several modifications via utilities functions under `\utils` folder.  
+Our implementation is highly integrated with [Auton-Survival](https://github.com/autonlab/auton-survival) package. If you are not familiar with this package, please refer to the examples [here](https://nbviewer.org/github/autonlab/auton-survival/tree/master/examples/). We have several modifications via utilities functions under `\utils` folder.  
 
 
 

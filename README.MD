@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 # Official PyTorch Implementation for “Censor-dependent Variational Inference”
 
-Welcome to the code repository of Censor-dependent Variational Inference! This project provides an comprehensive analysis of Variational Inference for Survival Analysis tasks in presence of censored data. In particular, CD-CVAE is a Conditional Variational Autoencoder leveraging a censor-dependent variational distribution. For more details, see full paper [here]().
+Welcome to the code repository of Censor-dependent Variational Inference! This project provides an comprehensive analysis of Variational Inference for Survival Analysis tasks in presence of censored data. In particular, CD-CVAE is a Conditional Variational Autoencoder leveraging a censor-dependent variational distribution. For more details, see full paper [here](https://arxiv.org/pdf/2502.09591).
 
 
 This repository provides:
@@ -50,9 +50,17 @@ Our implementation is highly integrated with [Auton-Survival](https://github.com
 
 <!--CITATION-->
 ## Bibtex:
-Please consider cite our paper, if you find this repo helpful:
+If you find this repo helpful，please consider cite our paper:
 
 ```
-
+@misc{liu2025censordependentvariationalinference,
+      title={Censor Dependent Variational Inference}, 
+      author={Chuanhui Liu and Xiao Wang},
+      year={2025},
+      eprint={2502.09591},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.09591}, 
+}
 ```
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
